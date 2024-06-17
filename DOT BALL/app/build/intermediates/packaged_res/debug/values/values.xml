@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="red">#FF0808</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Quit">Quit</string>
+    <string name="app_name">Game</string>
+    <string name="help">Help</string>
+    <string name="highscore">High Scores</string>
+    <string name="start">Start</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>

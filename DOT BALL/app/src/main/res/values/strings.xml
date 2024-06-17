@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="start">Start</string>
+    <string name="Quit">Quit</string>
+    <string name="help">Help</string>
+    <string name="highscore">High Scores</string>
+
+</resources>
